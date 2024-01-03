@@ -13,4 +13,4 @@ The system allows users to add new student records, update existing information,
 While access control is not explicitly implemented in this version, there's potential for future enhancements to include different user roles with varying levels of access for security reasons.
 
 
-<sub>I believe this Student Database Management System can serve as a practical solution for managing student information in educational settings.</sub>
+### <sub>I believe this Student Database Management System can serve as a practical solution for managing student information in educational settings.</sub>
